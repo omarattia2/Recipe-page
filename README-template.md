@@ -8,7 +8,11 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](screenshot/desktop-design1.png)
+![](screenshot/desktop-design2.png)
+![](screenshot/desktop-design3.png)
+![](screenshot/mobile-design1.png)
+![](screenshot/mobile-design2.png)
 
 
 ### Links
