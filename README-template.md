@@ -13,8 +13,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [solution URL here]([https://your-solution-url.com](https://github.com/omarattia2/Recipe-page))
-- Live Site URL: [live site URL here]([https://your-live-site-url.com](https://recipe-page-red-iota.vercel.app/))
+- Solution URL: [solution URL here](https://github.com/omarattia2/Recipe-page)
+- Live Site URL: [live site URL here](https://recipe-page-red-iota.vercel.app/)
 
 
 ### Built with
