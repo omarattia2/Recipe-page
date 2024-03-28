@@ -18,7 +18,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: [solution URL here](https://github.com/omarattia2/Recipe-page)
-- Live Site URL: [live site URL here](https://recipe-page-red-iota.vercel.app/)
+- Live Site URL: [live site URL here](https://omarattia2.github.io/Recipe-page/)
 
 
 ### Built with
