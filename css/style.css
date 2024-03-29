@@ -31,7 +31,7 @@ body {
 
 .main-card {
     width: 100%;
-    max-width: 450px;
+    max-width: 550px;
     height: auto;
     background-color: var(--White);
     border: 1px solid var(--Rose);
